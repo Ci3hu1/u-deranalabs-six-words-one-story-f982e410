@@ -20,7 +20,8 @@
 - `main.py`, `STRATEGY.md`, `tests/test_entry.py`, `README.md` (template badges, owner/repo/referral filled), `NOTES.md` written in the build session.
 - Tests: `python3 -m unittest discover -s tests -v` — all pass (six words, gate 1–60 chars, exact output, originality vs Hemingway, determinism over two runs).
 - NOT submitted — awaiting Joni's Setuju on the exact entry (parent presents it).
+- **SUBMITTED 24 Nov ~01:01 WIB on Joni's "Setuju": submission 01a20991-eb1b-722d-8d2d-f49edacb4c30, stage "scored", round 1. All intake checks pass. Claim code ONLY in ~/.config/makefun/u-deranalabs-six-words-one-story-f982e410-submission.json (0600).**
 
 ## Live score
 
-- (filled after submit)
+- Blind rounds: NO live score at submit. Round 1 of 3 judged after cutoff 01:37 WIB (2026-11-23T18:37:29Z); check GET /api/competitions/u-deranalabs-six-words-one-story-f982e410/rounds then. Final at deadline 03:35 WIB; results 15 Dec 2026.
